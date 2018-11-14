@@ -1,0 +1,5 @@
+#AC6454 indian red
+#2E2B19 dark olive green 
+#BABDBA dark sea green 
+#888A68 gray
+#9EAF91 dark sea green
