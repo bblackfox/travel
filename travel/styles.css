@@ -1,8 +1,105 @@
+h1 {
+  box-shadow: 5px 5px white;
+}
+
+h2 {
+  box-shadow: 5px 5px white;
+  margin: 30px;
+}
+
+nav {
+  background-color: inherit;
+  color: black;
+  margin-left: 26px;
+  margin-right: 26px;
+  padding: 10px;
+  float: none;
+  box-shadow: 5px 5px #888A68;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li .lista {
+  display: block;
+  background-color: inherit;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: inherit;
+  color: #888A68;
+}
+
+.lista:link {
+  background-color: inherit;
+  color: black;
+}
+
+.lista:visited {
+  background-color: inherit;
+  color: black;
+}
+
+.lista:hover {
+  background-color: inherit;
+  color: #888A68;
+}
+
 div {
   text-align: center;
 }
 
+.carouselFade {}
+
+.pstuff {
+  text-align: left;
+  background-color: #AC6454;
+  margin-left: 23px;
+  margin-right: 23px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  box-shadow: 5px 5px white;
+  padding: 1px;
+}
+
 p {
   margin: 30px;
-  box-sizing: border-box;
+  padding: 8px;
+  background-color: #2E2B19;
+  color: #BABDBA;
+  box-shadow: 5px 5px #888A68;
+}
+
+.contact {
+  text-align: center;
+  background-color: #AC6454;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px white;
+  padding: 1px;
+}
+
+.jumbotron {
+  background-color: #BABDBA;
+  box-shadow: 5px 5px white;
+  margin: 7px;
+}
+
+.display-4 {
+  box-shadow: 5px 5px #AC6454;
+}
+
+.lead {
+  color: black;
+  background-color: #888A68;
+  box-shadow: 5px 5px #AC6454;
 }
